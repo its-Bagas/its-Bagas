@@ -8,9 +8,9 @@
 - 📫 How to reach me **Karab9107@gmail.com**
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=its-bagas&show_icons=true&locale=en" alt="its-bagas" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=its-bagas&theme=tokyonight&show_icons=true&locale=en" alt="its-bagas" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=its-bagas&show_icons=true&locale=en&layout=compact" alt="its-bagas" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=its-bagas&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="its-bagas" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-bagas&" alt="its-bagas" /></p>
 
