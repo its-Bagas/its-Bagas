@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm RFB</h1>
 <h3 align="center">A Student in SMK TELKOM MALANG</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript & MongoDB**
 
 - 💬 Ask me about **CSS and HTML**
 
