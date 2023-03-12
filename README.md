@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm RFB</h1>
 <h3 align="center">A Student in SMK TELKOM MALANG</h3>
 
-- 🌱 I’m currently learning **JavaScript & MongoDB**
+- 🌱 I’m currently learning **JavaScript & Golang**
 
-- 💬 Ask me about **CSS and HTML**
+- 💬 Ask me about **Java or JavaScript**
 
 - 📫 How to reach me **Karab9107@gmail.com**
 
