@@ -7,7 +7,7 @@
 - 💻 Focused on **Web Development**, especially backend  
 - 🚀 Currently learning **TypeScript**, **Golang**, and scalable backend architecture  
 - 📫 Reach me at **karab9107@gmail.com**  
-- 🌐 Personal website: [bagas.xyz](https://bagas.xyz)
+- 🌐 Personal website: [rosy.my.id](https://rosy.my.id)
 
 ---
 
